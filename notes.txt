@@ -1,0 +1,47 @@
+Code RGB(114, 194, 14) pour texte/images (ex: facebook)
+Texte écriture noir
+
+Header:
+
+Bande blanche avec informations suivantes:
+	- Email (racinemichaudalexandre@gmail.com)
+	- Numéro de téléphone (514-867-9900)
+	- Lien facebook (logo)
+	- English/Francais
+
+Image avec logo entreprise (haut gauche)
+
+Titre au centre
+	- "Les Haies Racine"
+	- "Services d'entretien paysager"
+
+
+Contenu (3):
+
+Cercle avec taille haie
+	- "Taille de haies feuillus et conifères et arbres fruitiers"
+	- "Faite affaire avec nos specialiste en taille de haie ils sauront vous conseiller et repondre a votre satisfaction"
+
+Cercle avec tondeuse
+	- "Service de tonde"
+	- "vos attente seront combler avec notre ponctualiter et la qualiter de notre travaille"
+
+Cercle avec chainsaw
+	- "Rabattage de haie professionnelle."
+
+"Estimation gratuite en 48 heures!"
+
+Plugin redaction de courriel simple
+	(nom, courriel, numéro de telephone, ville, contenu message)
+
+
+Footer:
+	- [Facebook] Copyright/Tout droits réservés (c) Les Haie Racine
+
+	
+Mots clefs: Rive-sud, taille haie, taille bordure, horticulture....
+
+https://ca.godaddy.com/fr/hosting/web-hosting
+
+https://blackrockdigital.github.io/startbootstrap-round-about/
+
