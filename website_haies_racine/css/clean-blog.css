@@ -239,18 +239,30 @@ hr.small {
   color: #0085A1;
   text-decoration: underline;
 }
-
-@media only screen and (max-width: 760px){
+.red{
+    color:red;
+    }
+.form-area
+{
+    background-color: #FAFAFA;
+	padding: 10px 40px 60px;
+	margin: 10px 0px 60px;
+	border: 1px solid GREY;
+	font-size:10pt;
+}
+@media only screen and (min-width: 200px){
 	
 	.texty {
-		font-size: smaller;
+		font-size: 11pt;
+		margin: 0px;
 	}
 }
 
 @media only screen and (min-width: 768px) {
-  .post-preview > a > .post-title {
-    font-size: 36px;
-  }
+	.texty {
+		font-size: 14pt;
+		margin: 0px;
+	}
 }
 /* Desktop mode CSS rules */
 @media only screen and (min-width: 1170px) {
