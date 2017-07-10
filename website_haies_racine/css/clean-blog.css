@@ -250,6 +250,13 @@ hr.small {
 	border: 1px solid GREY;
 	font-size:10pt;
 }
+
+.error {
+	
+	color:red;
+	font-size:11pt;
+	
+}
 @media only screen and (min-width: 200px){
 	
 	.texty {
@@ -333,7 +340,7 @@ hr.small {
   border-bottom-left-radius: 5px;
 }
 footer {
-  padding: 50px 0 65px;
+  padding: 40px 0 65px;
 }
 footer .list-inline {
   margin: 0;
