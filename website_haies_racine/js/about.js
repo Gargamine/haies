@@ -88,11 +88,11 @@ function sendEmail() {
 		//+ inputMobile + newLine
 	
 	//Send mail to destination
-	var link = "mailto:santerre.sebas@gmail.com"
+	/*var link = "mailto:santerre.sebas@gmail.com"
 		+ "?subject=[Site]" + space + inputSubject.val()
 		+ "&body=" + bodyHTML;
-	window.location.href = link;
-	/*
+	window.location.href = link;*/
+	
 	$.ajax({
 		url:"https://formspree.io/santerre.sebas@gmail.com",
 		method:"POST",
@@ -109,7 +109,7 @@ function sendEmail() {
 		error: function(msg){
 			console.log(msg);
 		}
-	});*/
+	});
 	
 	//For client reloading purposes
 	return true;
